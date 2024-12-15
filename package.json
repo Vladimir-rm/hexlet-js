@@ -8,5 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vladimir Rem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
